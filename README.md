@@ -7,9 +7,10 @@ Thanks to ChatGPT for creating this image.
 ## Table of contents
 
 <!-- mdtoc-start -->
-&bull; [skeleton](#skeleton)  
+&bull; [Safety_Cat](#safety_cat)  
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; [Table of contents](#table-of-contents)  
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; [Introduction](#introduction)  
+&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Prompts](#prompts)  
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; [License](#license)  
 <!-- TOC created by '../mdtoc/mdtoc.pl README.md' (see https://github.com/fordsfords/mdtoc) -->
 <!-- mdtoc-end -->
